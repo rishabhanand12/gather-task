@@ -2,6 +2,7 @@ let express = require("express");
 let mongoose = require("mongoose");
 let helmet = require("helmet");
 let createError = require("http-errors");
+let path = require("path");
 let cors = require("cors");
 require("dotenv").config();
 
