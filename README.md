@@ -1,6 +1,8 @@
 # gather-task
 
-### To run the application
+## Live Heroku link - https://gather-task.herokuapp.com/
+
+### To run the application locally
 
 Clone this repo
 
