@@ -1,0 +1,4 @@
+/node_modules
+/.env
+/files
+/client/node_modules
