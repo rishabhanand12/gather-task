@@ -59,7 +59,7 @@ app.use(function (err, _req, res, _next) {
   });
 });
 
-let PORT = process.env.PORt || 5000;
+let PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server running on PORT ${PORT}`);
 });
