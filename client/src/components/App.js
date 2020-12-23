@@ -13,7 +13,7 @@ export default function App(_props) {
         <Route exact path="/">
           <Redirect to="/gallery" />
         </Route>
-        <Route exact path="/gallery">
+        <Route path="/gallery">
           <Gallery />
         </Route>
         <Route path="/item">
